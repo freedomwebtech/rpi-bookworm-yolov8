@@ -1,0 +1,5 @@
+sudo apt-get install pyqt5-dev-tools
+
+sudo pip3 install labelimg
+
+sudo zip -r  freedomtech.zip freedomtech/*
